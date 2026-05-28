@@ -1,0 +1,5 @@
+[1]20260521_32bx32b_unsigned_presum_verilog_model.v
+The presum (a x 3 adder) uses the same adder as the finalsum adder(4b CLA).
+
+[2]20260525_32bx32b_unsigned_presum_verilog_model.v
+The presum (a x 3 adder) uses the dedicated adder.
